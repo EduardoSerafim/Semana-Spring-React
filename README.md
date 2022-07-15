@@ -1,5 +1,5 @@
 # Semana-Spring-React
-##Projeto desenvolvido no evento "Semana Spring React" da Devsuperior
+## Projeto desenvolvido no evento "Semana Spring React" da Devsuperior
 
 Consiste em uma aplicação SPA desenvolvida em react que puxa dados de venda de uma API criada em Spring Boot. a aplicação filtra os dados de vendas pela data e consegue
 enviar atráves de SMS os dados atráves da API Twillo. 
