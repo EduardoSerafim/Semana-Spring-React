@@ -5,7 +5,7 @@ Consiste em uma aplicação SPA desenvolvida em react que puxa dados de venda de
 enviar atráves de SMS os dados atráves da API Twillo. 
 O backend da aplicação foi hospedado na plataforma Heroku o Frontend no Netlify
 
-Teste a aplicação [AQUI] (https://dsmeta-eduardo-serafim.netlify.app/)
+Teste a aplicação [AQUI](https://dsmeta-eduardo-serafim.netlify.app/)
 
 ### Tecnologias
 - React 
