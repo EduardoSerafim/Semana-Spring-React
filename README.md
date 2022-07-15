@@ -7,7 +7,7 @@ O backend da aplicação foi hospedado na plataforma Heroku o Frontend no Netlif
 
 Teste a aplicação [AQUI] (https://dsmeta-eduardo-serafim.netlify.app/)
 
-###Tecnologias
+### Tecnologias
 - React 
 - Java Spring Boot
 - API Twlilo 
